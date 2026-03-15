@@ -27,7 +27,7 @@ NumPy
 Scikit-learn  
 
 ## Project Structure
-
+```
 USED_CAR_PRICE_PREDICTION
 │
 ├── dataset/ # Car datasets used for training
@@ -35,7 +35,7 @@ USED_CAR_PRICE_PREDICTION
 ├── project/ # Django project source code
 ├── manage.py # Django project manager
 └── docs/ # Documentation files
-
+```
 
 ## Dataset
 
